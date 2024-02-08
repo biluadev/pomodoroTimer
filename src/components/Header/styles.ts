@@ -31,4 +31,9 @@ export const HeaderContainer = styled.header`
             } 
         }
     }
+
+    .logo {
+    width: 32px; /* Defina o tamanho desejado */
+    height: auto; /* Mantém a proporção original */
+}
 `;
